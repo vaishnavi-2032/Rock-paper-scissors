@@ -1,0 +1,23 @@
+.container{
+	border:1px solid #000;
+	width:75%;
+	margin:0 auto;
+	text-align:center;
+}
+.flexbox-container{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-around;
+	border:1px solid #000;
+}
+.flexbox-container img{
+	margin:10px;
+}
+
+h2{
+	xt-transform:uppercase;
+ }
+.flexbox-container img:hover{
+       box-shadow:-3px 5px 12px 5px #2d0472;
+	   
+}
